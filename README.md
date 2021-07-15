@@ -6,9 +6,9 @@ student at [WSB](https://www.wsb.pl/english/) 🎓.
 
 | Working With Technologies | Currently Learning |
 | ------------------------- | ------------------ |
-| ⚛ React                   | 📱 React Native     |
-| ✍️ JavaScript/TypeScript   | 🕊 Swift.           |
-| 🐍 Python                  | ☕️ Java.            |
+| ⚛ React                   | 📱 React Native    |
+| ✍️ JavaScript/TypeScript   | 🕊 Swift           |
+| 🐍 Python                  | ☕️ Java            |
 
 ### Interested In Finding More?
 
