@@ -2,8 +2,8 @@
 
 ### Hey, I’m Łukasz! 👋
 
-I’m a Front End Chapter Lead 👨‍💻 at [Coya](https://www.coya.com), living in [Wrocław, Poland](https://en.wikipedia.org/wiki/Wroc%C5%82aw) 🇵🇱, and I’m a [Computer Science](https://www.wsb.pl/english/poznan/our-offer/bachelors-degree/programs/computer-science-mobile-software-developer)
-student at [WSB](https://www.wsb.pl/english/) 🎓.
+I’m a Fullstack Engineer 👨‍💻 at [Luko](https://luko.eu/en/), living in [Wrocław, Poland](https://en.wikipedia.org/wiki/Wroc%C5%82aw) 🇵🇱, and I’m a [Computer Science](https://www.wsb.pl/english/poznan/our-offer/bachelors-degree/programs/computer-science-mobile-software-developer)
+student at [WSB University](https://www.wsb.pl/english/) 🎓.
 
 Oh! And I recently started streaming gaming & coding on [Twitch](https://www.twitch.tv/wookkeey) 🎥!
 
@@ -13,6 +13,6 @@ Oh! And I recently started streaming gaming & coding on [Twitch](https://www.twi
 
 ### Interested In Finding More?
 
-🌍 [My Website](https://lukaszklis.com)<br />
-🐦 [Twitter](https://twitter.com/lukaszklis)<br />
-💼 [LinkedIn](https://www.linkedin.com/in/lukaszklis)
+🌍  [My Website](https://lukaszklis.com)<br />
+🐦  [Twitter](https://twitter.com/lukaszklis)<br />
+💼  [LinkedIn](https://www.linkedin.com/in/lukaszklis)
