@@ -9,7 +9,12 @@ Oh! And I recently started streaming gaming & coding on [Twitch](https://www.twi
 
 ### Technologies I’m Interested In
 
-⚛ React `&&` 🦺 TypeScript `&&` 🐍 Python `&&` 📱 React Native `&&` 🕊 Swift
+⚛ React<br />
+🦺 TypeScript<br />
+📱 React Native<br />
+🐍 Python<br />
+☕️ Kotlin<br />
+🕊 Swift
 
 ### Interested In Finding More?
 
