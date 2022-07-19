@@ -11,7 +11,7 @@ Oh! And I recently started streaming gaming & coding on [Twitch](https://www.twi
 
 ⚛ React<br />
 🦺 TypeScript<br />
-📱 React Native<br />
+🧪 Elixir<br />
 🐍 Python<br />
 ☕️ Kotlin<br />
 🕊 Swift
