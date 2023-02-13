@@ -5,4 +5,4 @@ student at the [WSB University](https://www.wsb.pl/english/).
 
 **Technologies I’m interested in:** [React](https://reactjs.org/) · [TypeScript](https://www.typescriptlang.org/) · [Elixir](https://elixir-lang.org/) · [Python](https://www.python.org/) · [Kotlin](https://kotlinlang.org/) · [Swift](https://www.swift.org/)
 
-**Interested in finding more?** [My Website](https://lukaszklis.com) · [Twitter](https://twitter.com/lukaszklis) · [LinkedIn](https://www.linkedin.com/in/lukaszklis)
+**Interested in finding more?** [My Website](https://lukaszklis.com) · [Mastodon](https://mastodon.social/@lukaszklis) · [LinkedIn](https://www.linkedin.com/in/lukaszklis)
